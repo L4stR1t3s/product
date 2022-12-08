@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/L4stR1t3s/package.git
 	branch = main
-	commit = a854ec7764beed8fcf0d33cf8639a3c0eafa0dac
+	commit = 350bf2f41b5076128d165395ad18798be415d656
 	parent = 442f6e9ef3783456e314dc9287305cc2f009bc8f
 	method = merge
 	cmdver = 0.4.5-perforce-migration-internal-git-lfs-support
