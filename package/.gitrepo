@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/L4stR1t3s/package.git
+	branch = main
+	commit = 838de88aadb7cdfe92f4ae8cf8547e0116b88ea1
+	parent = 8b41a6ebbe288bed3c8a7375c6953957160c5a2d
+	method = merge
+	cmdver = 0.4.5-perforce-migration-internal-git-lfs-support
